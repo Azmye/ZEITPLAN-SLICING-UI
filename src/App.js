@@ -1,24 +1,32 @@
-import logo from './logo.svg';
-import './App.css';
+import { useEffect } from 'react';
+import { BrowserRouter } from 'react-router-dom';
+
+import Description from './components/Description';
+import Download from './components/Download';
+import Feature from './components/Feature';
+import Footer from './components/Footer';
+import Hero from './components/Hero';
+import Navbar from './components/Navbar';
+import Price from './components/Price';
+import Testimonials from './components/Testimonials';
 
 function App() {
+  useEffect(() => {
+    document.title = 'ZeitPLan - Slicing Ui - Portfolio';
+  });
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <BrowserRouter>
+        <Navbar />
+        <Hero />
+        <Description />
+        <Feature />
+        <Price />
+        <Testimonials />
+        <Download />
+        <Footer />
+      </BrowserRouter>
+    </>
   );
 }
 
