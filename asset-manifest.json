@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ZEITPLAN-SLICING-UI/static/css/main.12bd9553.css",
-    "main.js": "/ZEITPLAN-SLICING-UI/static/js/main.116c48cc.js",
+    "main.css": "/ZEITPLAN-SLICING-UI/static/css/main.ddc59f5d.css",
+    "main.js": "/ZEITPLAN-SLICING-UI/static/js/main.0f673b48.js",
     "static/js/787.8edf3edc.chunk.js": "/ZEITPLAN-SLICING-UI/static/js/787.8edf3edc.chunk.js",
     "static/media/feature-image.svg": "/ZEITPLAN-SLICING-UI/static/media/feature-image.eee8717b5c28ac62db25785dad842574.svg",
     "static/media/hero-image.svg": "/ZEITPLAN-SLICING-UI/static/media/hero-image.f96d3dd9c04c518f109d7497e0556209.svg",
@@ -22,12 +22,12 @@
     "static/media/bg-hero.svg": "/ZEITPLAN-SLICING-UI/static/media/bg-hero.a56dfcb31060e4a3a32e.svg",
     "static/media/bg-price.svg": "/ZEITPLAN-SLICING-UI/static/media/bg-price.8ed596fd6359bc2b027b.svg",
     "static/media/bg-testimonials.svg": "/ZEITPLAN-SLICING-UI/static/media/bg-testimonials.2ed0e3947b47e71b0ebe.svg",
-    "main.12bd9553.css.map": "/ZEITPLAN-SLICING-UI/static/css/main.12bd9553.css.map",
-    "main.116c48cc.js.map": "/ZEITPLAN-SLICING-UI/static/js/main.116c48cc.js.map",
+    "main.ddc59f5d.css.map": "/ZEITPLAN-SLICING-UI/static/css/main.ddc59f5d.css.map",
+    "main.0f673b48.js.map": "/ZEITPLAN-SLICING-UI/static/js/main.0f673b48.js.map",
     "787.8edf3edc.chunk.js.map": "/ZEITPLAN-SLICING-UI/static/js/787.8edf3edc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.12bd9553.css",
-    "static/js/main.116c48cc.js"
+    "static/css/main.ddc59f5d.css",
+    "static/js/main.0f673b48.js"
   ]
 }
